@@ -1,2 +1,2 @@
 # This is a boxing website
-## hello h2	
+This is a static website for Boxing.
